@@ -1,5 +1,11 @@
 # TiiHeroes
 
+
+## Heroku info
+
+https://github.com/angular/angular-cli/issues/2517
+https://www.angularonrails.com/deploy-angular-cli-webpack-project-heroku/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
 
 ## Development server
